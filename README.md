@@ -1,0 +1,2 @@
+# StaticBlog
+一个纯静态博客网站用于体验GitHubPage功能
